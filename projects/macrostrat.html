@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Jon M. Husson</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../css/customstyles.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../index.html">Earth history at many scales</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                		<a href="../index.html#about">About Me</a>
+                	</li>
+                    
+                    <li>
+                        <a href="../docs/husson_CV.pdf" target="_blank">CV</a>
+                    </li>
+                    <li>
+                        <a href="../pubs/pubs.html">Publications</a>
+                    </li>
+                    <li class="dropdown">
+                		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Projects <span class="caret"></span></a>
+                 		 <ul class="dropdown-menu" role="menu">
+                     		<li><a href="/projects/ict.html">Earth's deepest δ¹³C excursion</a></li>
+                    		<li><a href="/projects/camg.html">Ca and Mg isotopes in deep time</a></li>
+                    		<li><a href="/projects/helderberg.html">Silurian-Devonian carbon cycle</a></li>
+                    		<li><a href="#">Macrostrat</a></li>
+                    		<li><a href="/projects/future_projects.html">Future Projects</a></li>
+                  		</ul>
+                	</li>
+                    <li>
+                        <a href="../contact/contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+
+
+
+<br></br>
+<br></br>
+<br></br>
+
+<!-- Page Content -->
+    <div class="container marketing">
+
+      <!-- introduction to section -->
+      <div class="row">       
+
+          <div class="col-lg-12"> 
+          <hr>
+          <h3 align="center">A data synthesis approach to Earth history research</h3>
+          
+          <img src="../gifs/seds_0p1s.gif" alt="ict_mthomas" style="width: 50%; float: right; margin: 0px 0px 5px 20px;">
+
+		  <p class="text-justify"> For over 100 years, geoscientists have appreciated that 
+		  Earth's climate and surface chemistry is mediated by mass exchange with the lithosphere. 
+		  Due to the challenges 
+		  of direct quantification of geological mass fluxes, especially at fine temporal scales, geochemical proxy studies of
+		  well-constrained stratigraphic sections have emerged as a dominant mode to study ancient climate and biogeochemical 
+		  cycling. My <a href="/projects/ict.html">Ph.D. research</a> was premised certainly on this approach. However, as the number of 
+		  active geoscientists grows, and analytical approaches make the generation of large datasets more routine, the ability to 
+		  discover and analyze all data relevant to a given question has become unwieldy, but increasingly important for testing 
+		  the most pressing questions in Earth history. For example, the canonical model used to interpret carbon isotopic records 
+		  contends that there are of two important modes of carbon burial: (1) <b>organic matter</b> and (2) <b>marine carbonate</b>. Recent work 
+		  has challenged this paradigm by suggesting that  <b>authigenic carbonate</b>, precipitated from carbon released during anaerobic 
+		  organic matter degradation, may be an important third sink for carbon. If correct, our understanding of the carbon cycle 
+		  and global redox budgets needs to be redressed at a fundamental level. Testing this model is challenging, however, because 
+		  authigenic carbonate can be disseminated over a large volume of buried sediment.</p>
+		  
+		  <p class="text-justify"><b>Thus, rather than viewing geochemical proxies as replacements for empirical quantification of geological mass 
+		  fluxes, these approaches are necessarily complementary.</b>  This 
+		  challenge (and opportunity) has led me to work with  <a href="http://macrostrat.org/" target="_blank">Macrostrat</a>, a geospatial 
+		  database that describes the age and properties of rocks in the upper crust. In collaboration with  <a href="http://strata.geology.wisc.edu/Home/" target="_blank">Shanan Peters</a>, and
+		  using Macrostrat as a framework for <b>geological data synthesis</b>, we can model sedimentary mass fluxes into and out of the lithosphere on geological timescales, and thus 
+		  explore the attendant implications for climate and biogeochemical cycles. At its root, the most basic calculation that can be derived from Macrostrat
+		  is <b>rock coverage</b> - for a given point in time at a given region in space, does rock exist? The movie above displays this quantity, progressing from 1000 million years ago until today 
+		  with polygons color-coded by their dominant lithology. Watch and you will observe a pronounced increase in sedimentary abundance starting at ~500 Ma. This increase is profound and unexpected, and we explore
+		  its implications below.</p>
+          
+          <hr>
+          <h3 align="center">The sedimentary shell as agent of atmospheric oxygenation?</h3>
+		  <img src="../img/pO2.png" alt="po2" style="width: 70%; float: left; margin: 0px 15px 5px 0px;">
+		  <p class="text-justify">The figure at left is a time series of the animated data from above. The number of Macrostrat columns that have sediments or metasediments 
+		  are tabulated for each one million year increment. The sediment coverage record <b>(left axis on figure)</b> is then built by normalizing the time series to the maximum value (i.e., a value of 1 would indicate all of Laurentia 
+		  is accumulating sediment at a given time point). Sedimentary and metasedimentary rock coverage
+		  is low in the Archean, rises to a higher value in the Proterozoic, and then again rises dramatically during the early Phanerozoic. It is notable that exponential decay in surviving 
+		  rock quantity with increasing age, as expected by models of rock cycling, is not apparent in this empirical rock 
+		  quantity-age data. By contrast, this time series of North American continental sediment abundance is strikingly similar to the global history of atmospheric oxygen concentration 
+		  and major transitions in the global fossil record <b>(right axis on figure)</b>. These empirical results, <a href="http://dx.doi.org/10.1016/j.epsl.2016.12.012" target="_blank">recently published</a>, form the basis for a 
+		  simple forward model of net organic carbon burial and oxidative weathering of the crust, which predicts two significant rises in <i>p</i>O<sub>2</sub> separated by three comparatively stable plateaus. 
+		  These observations suggest that the two-phased oxygenation of Earth's surface environment, and the long delays between the origin of life, the evolution of metazoans, and their subsequent diversification during the 
+		  Cambrian Explosion, was caused by step-wise shifts in the ability of the continents to accumulate and store sedimentary organic carbon. The geodynamic mechanisms that promote and inhibit 
+		  sediment accumulation on continental crust have, therefore, exerted a first-order control on the evolution of Earth's life and environment.</p>          
+          <hr>
+ 
+          <br> 
+          <br> 
+          <br>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+    </div>  
+    
+    <!-- /.container -->
+
+    <!-- jQuery Version 1.11.1 -->
+    <script src="../js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
