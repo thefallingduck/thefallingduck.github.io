@@ -4,7 +4,7 @@ Website created using the template [Bare](http://startbootstrap.com/template-ove
 
 ## Creator
 
-Website was created by and is maintained by **Ben Linzmeier**, post-doctoral Fellow in Earth and Planetary Science at [Northwestern University](https://www.earth.northwestern.edu/).
+Website was created by and is maintained by **Ben Linzmeier**, post-doctoral Fellow in the Deparment of Geoscience at [the University of Wisconsin - Madison](http://geoscience.wisc.edu/geoscience/).
 
 ## Copyright and License
 
