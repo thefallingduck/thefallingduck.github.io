@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.9in"
+   height="1.8in"
+   viewBox="0 0 81.000002 161.99999"
+   id="svg4299"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SIMS_Label.svg">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="644"
+     inkscape:window-height="480"
+     id="namedview37"
+     showgrid="false"
+     inkscape:zoom="1.4567902"
+     inkscape:cx="40.499999"
+     inkscape:cy="80.999998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4301" />
+  <g
+     id="layer1"
+     transform="translate(-257.10266,-422.31714)">
+    <text
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="294.72964"
+       y="566.34973"
+       id="text3058">
+      <tspan
+         x="294.72964"
+         y="566.34973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:100%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle"
+         id="tspan4567">Museum Name</tspan>
+    </text>
+    <text
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="276.26559"
+       y="551.42889"
+       id="text3207-46">
+      <tspan
+         id="tspan3209-0"
+         x="276.26559"
+         y="551.42889"
+         style="font-style:normal;font-size:8.75px;-inkscape-font-specification:Arial">Sample #</tspan>
+    </text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.93250155;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985-45"
+       width="79.067497"
+       height="79.067497"
+       x="258.06891"
+       y="423.44547" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:104.99999523%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="296.62057"
+       y="440.49985"
+       id="text3796-5">
+      <tspan
+         x="296.62057"
+         y="440.49985"
+         style="font-style:normal;font-size:7.5px;line-height:104.99999523%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+         id="tspan3205">Standard</tspan>
+    </text>
+    <text
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-471.89523"
+       y="334.15567"
+       id="text4167-4"
+       transform="matrix(0,-1,1,0,0,0)">
+      <tspan
+         id="tspan4169-2"
+         x="-471.89523"
+         y="334.15567"
+         style="font-style:normal;font-size:8px;-inkscape-font-specification:Arial">PI #1</tspan>
+    </text>
+    <g
+       id="g4342"
+       transform="translate(63.542321,96.565004)">
+      <rect
+         transform="scale(1,-1)"
+         y="-394.3876"
+         x="205.20851"
+         height="3.6924579"
+         width="57.206257"
+         id="rect4119-2-72"
+         style="fill:#00edff;fill-opacity:0.74603176;stroke:none" />
+      <text
+         id="text3207-07"
+         y="401.56253"
+         x="215.4742"
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+        <tspan
+           style="font-style:normal;font-size:7.5px;-inkscape-font-specification:Arial"
+           y="401.56253"
+           x="215.4742"
+           id="tspan3209-5">Museum #</tspan>
+      </text>
+    </g>
+    <text
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-472.41867"
+       y="265.69656"
+       id="text4167-4-2"
+       transform="matrix(0,-1,1,0,0,0)">
+      <tspan
+         id="tspan4169-2-5"
+         x="-472.41867"
+         y="265.69656"
+         style="font-style:normal;font-size:8px;-inkscape-font-specification:Arial">PI #2</tspan>
+    </text>
+    <text
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="321.38251"
+       y="513.70453"
+       id="text3207-46-1"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan3209-0-8"
+         x="296.91766"
+         y="513.70453"
+         style="font-style:normal;font-size:8px;line-height:95.99999785%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Cast in Epoxy</tspan>
+      <tspan
+         x="296.91766"
+         y="523.70453"
+         style="font-style:normal;font-size:8px;line-height:95.99999785%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+         id="tspan5053">cut on lines</tspan>
+    </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:104.99999523%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="296.30563"
+       y="432.27039"
+       id="text3796-5-2">
+      <tspan
+         x="296.30563"
+         y="432.27039"
+         id="tspan3800-71-0"
+         style="font-style:normal;font-size:8.75px;line-height:104.99999523%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Prep Date</tspan>
+      <tspan
+         x="296.30563"
+         y="432.27039"
+         style="font-style:normal;font-size:8.75px;line-height:104.99999523%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+         id="tspan3205-6" />
+    </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:104.99999523%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="296.46677"
+       y="454.94327"
+       id="text3796-5-6">
+      <tspan
+         x="296.46677"
+         y="454.94327"
+         style="font-style:normal;font-size:10px;line-height:104.99999523%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+         id="tspan3205-5">Other</tspan>
+      <tspan
+         x="296.46677"
+         y="465.44327"
+         style="font-style:normal;font-size:10px;line-height:104.99999523%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+         id="tspan5004">Sample</tspan>
+      <tspan
+         x="296.46677"
+         y="475.94327"
+         style="font-style:normal;font-size:10px;line-height:104.99999523%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+         id="tspan5006">Info</tspan>
+    </text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="296.36862"
+       y="486.33151"
+       id="text3058-3"><tspan
+         x="296.36862"
+         y="486.33151"
+         style="font-style:normal;font-size:7.5px;line-height:100%;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;font-family:Sans;font-weight:normal;font-stretch:normal;font-variant:normal"
+         id="tspan4567-4">Museum Name</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:104.99999523%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="295.01712"
+       y="537.23071"
+       id="text3796-5-3">
+      <tspan
+         x="295.01712"
+         y="537.23071"
+         style="font-style:normal;font-size:7.5px;line-height:104.99999523%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+         id="tspan3205-7">Standard</tspan>
+    </text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.7,2.1;stroke-dashoffset:0"
+       d="m 259.13859,541.85349 76.20188,0"
+       id="path5030" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.7, 2.1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 259.13859,527.89283 76.20188,0"
+       id="path5030-1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.7, 2.1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 259.13859,555.81413 76.20188,0"
+       id="path5030-8" />
+  </g>
+</svg>
